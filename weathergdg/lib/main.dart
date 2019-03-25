@@ -7,7 +7,7 @@ import './util/utils.dart';
 
 
 
-String _apiUrl2 = "https://api.openweathermap.org/data/2.5/forecast?q=vellore&appid='0b7be415ac1fcb476499ab02986c7a7d'&units=metric";
+String _apiUrl2 = "https://api.openweathermap.org/data/2.5/forecast?q=vellore&appid=0b7be415ac1fcb476499ab02986c7a7d&units=metric";
 
 
 List _provider2;
